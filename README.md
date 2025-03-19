@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Toluwalase Idowu
-- 👀 I’m interested in ... Coding, Cybersecurity and Ethical Hacking
-- 🌱 I’m currently learning ... Cybersecurity
-- 💞️ I’m looking to collaborate on ... any open coding and cybersecurity project
-- 📫 How to reach me ... email idowutoluwalase44@gmail.com
+- 👀 I’m into Cybersecurity and Ethical Hacking
+- 💞️ I’m looking to collaborate on any open cybersecurity project
+- 📫 How to reach me? ... email idowutoluwalase44@gmail.com
 - 😄 Pronouns: ... he/him
 
 <!---
